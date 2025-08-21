@@ -35,6 +35,10 @@ Tienes 6 intentos.
 _ _ _ _ _ _ _ _ _
 Ingresa una letra:
 ```
+## Posibles mejoras
+- Crear una interfaz gráfica.
+- Guardar la puntuación del usuario de forma local.
+- Agregar diferentes dificultades cambiando el largo de la palabra y disminuyendo la cantidad de intentos.
 ## Video Explicativo del codigo
 Puedes ver el funcionamiento del juego y su explicación en el siguiente enlace:  
 [Ver video en Google Drive](https://drive.google.com/file/d/1Xpqq2zs95cEpq3y_wGVLzihEa8Hq3oMI/view?usp=sharing)
