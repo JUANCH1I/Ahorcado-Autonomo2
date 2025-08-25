@@ -1,5 +1,5 @@
 # Ahorcado-Autonomo2
-
+Fecha: 24/8/2025
 ## Descripción
 El juego trata de adivinar una palabra aleatoria ingresando una letra a la vez.  
 ## Tecnologías
