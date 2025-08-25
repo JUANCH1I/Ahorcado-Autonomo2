@@ -43,8 +43,8 @@ Ingresa una letra:
 Puedes ver el funcionamiento del juego y su explicación en el siguiente enlace:  
 [Ver video en Google Drive](https://drive.google.com/file/d/1Xpqq2zs95cEpq3y_wGVLzihEa8Hq3oMI/view?usp=sharing)
 ## Video de Presentacion y PowerPoint
-[Ver video en Google Drive]([https://drive.google.com/file/d/1Xpqq2zs95cEpq3y_wGVLzihEa8Hq3oMI/view?usp=sharing](https://drive.google.com/file/d/1IqoM00Cu9hVv96He5-pPwJI507o036fh/view?usp=sharing))
-[Ver PowerPoint en Google Drive]([[https://drive.google.com/file/d/1Xpqq2zs95cEpq3y_wGVLzihEa8Hq3oMI/view?usp=sharing](https://drive.google.com/file/d/1IqoM00Cu9hVv96He5-pPwJI507o036fh/view?usp=sharing)](https://docs.google.com/presentation/d/1P0Pa9BkcJ-W-W5abrroMFDBGIjPIOyhd/edit?usp=sharing&ouid=103350030442664043709&rtpof=true&sd=true))
+[Ver video en Google Drive](https://drive.google.com/file/d/1IqoM00Cu9hVv96He5-pPwJI507o036fh/view?usp=drive_link)
+[Ver PowerPoint en Google Drive](https://docs.google.com/presentation/d/1P0Pa9BkcJ-W-W5abrroMFDBGIjPIOyhd/edit?usp=sharing&ouid=103350030442664043709&rtpof=true&sd=true)
 ## Notas
 implemente algunas cosas más como funciones o estructuras de datos debido a que estoy un poquito adelantado debido a otros proyectos que tengo.
 ## Conclusiones
